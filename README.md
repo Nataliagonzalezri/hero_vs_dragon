@@ -1,11 +1,12 @@
 # Hero vs Dragon Game
 
-![alt text](https://cinemasiren.com/wp-content/uploads/2014/06/Viking-vs-Dragon.jpg "Mighty Hero vs Evil Dragon")
+This game is about a historical fight between a mythological dragon and a "hero" trying to save his fortune from the dragon's fire. Who will win this fight will depend, in part, on you. 
 
-## This is a game that you need to complete
+The rules are as follows:
 
-Please describe the rules in this list:
-1. The hero battles the dragon
-2. The hero and the dragon have a set of "hit points"
-3. The hit points value is read from the user
-4. _keep describing the problem_
+1. You must enter the life points ("hp") of both the dragon and the hero. Remember: the dragon can have a maximum of 100 hp, and the hero can have a maximum of 50 hp.
+2. The dragon will start attacking.
+3. While the amount of damage from attacks is random, it does have maximums. Each dragon attack cannot take more than 10 points from the hero; Each hero's attack cannot take more than 20 points from the dragon.
+4. After repeatedly attacking each other, the dragon or hero will die for having 0 HP or less. Thus, game will end.
+
+Good luck!
